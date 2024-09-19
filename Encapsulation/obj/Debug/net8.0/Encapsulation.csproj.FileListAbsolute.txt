@@ -1,0 +1,14 @@
+D:\.NET\DAY1\day1\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\.NET\DAY1\day1\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\.NET\DAY1\day1\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\.NET\DAY1\day1\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\.NET\DAY1\day1\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\.NET\DAY1\day1\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

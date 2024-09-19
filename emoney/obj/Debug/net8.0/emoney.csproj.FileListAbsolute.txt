@@ -1,0 +1,14 @@
+D:\.NET\DAY1\day1\emoney\bin\Debug\net8.0\emoney.exe
+D:\.NET\DAY1\day1\emoney\bin\Debug\net8.0\emoney.deps.json
+D:\.NET\DAY1\day1\emoney\bin\Debug\net8.0\emoney.runtimeconfig.json
+D:\.NET\DAY1\day1\emoney\bin\Debug\net8.0\emoney.dll
+D:\.NET\DAY1\day1\emoney\bin\Debug\net8.0\emoney.pdb
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.AssemblyInfoInputs.cache
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.AssemblyInfo.cs
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.csproj.CoreCompileInputs.cache
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.dll
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\refint\emoney.dll
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.pdb
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\emoney.genruntimeconfig.cache
+D:\.NET\DAY1\day1\emoney\obj\Debug\net8.0\ref\emoney.dll

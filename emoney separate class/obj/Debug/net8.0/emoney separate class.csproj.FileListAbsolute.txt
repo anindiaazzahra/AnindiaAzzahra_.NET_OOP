@@ -1,0 +1,14 @@
+D:\.NET\DAY1\day1\emoney separate class\bin\Debug\net8.0\emoney separate class.exe
+D:\.NET\DAY1\day1\emoney separate class\bin\Debug\net8.0\emoney separate class.deps.json
+D:\.NET\DAY1\day1\emoney separate class\bin\Debug\net8.0\emoney separate class.runtimeconfig.json
+D:\.NET\DAY1\day1\emoney separate class\bin\Debug\net8.0\emoney separate class.dll
+D:\.NET\DAY1\day1\emoney separate class\bin\Debug\net8.0\emoney separate class.pdb
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.AssemblyInfoInputs.cache
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.AssemblyInfo.cs
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.csproj.CoreCompileInputs.cache
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.dll
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\refint\emoney separate class.dll
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.pdb
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\emoney separate class.genruntimeconfig.cache
+D:\.NET\DAY1\day1\emoney separate class\obj\Debug\net8.0\ref\emoney separate class.dll

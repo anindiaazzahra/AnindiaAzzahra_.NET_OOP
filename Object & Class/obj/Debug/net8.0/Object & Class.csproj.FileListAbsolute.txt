@@ -1,0 +1,14 @@
+D:\.NET\DAY1\day1\Object & Class\bin\Debug\net8.0\Object & Class.exe
+D:\.NET\DAY1\day1\Object & Class\bin\Debug\net8.0\Object & Class.deps.json
+D:\.NET\DAY1\day1\Object & Class\bin\Debug\net8.0\Object & Class.runtimeconfig.json
+D:\.NET\DAY1\day1\Object & Class\bin\Debug\net8.0\Object & Class.dll
+D:\.NET\DAY1\day1\Object & Class\bin\Debug\net8.0\Object & Class.pdb
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.AssemblyInfoInputs.cache
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.AssemblyInfo.cs
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.csproj.CoreCompileInputs.cache
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.dll
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\refint\Object & Class.dll
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.pdb
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\Object & Class.genruntimeconfig.cache
+D:\.NET\DAY1\day1\Object & Class\obj\Debug\net8.0\ref\Object & Class.dll

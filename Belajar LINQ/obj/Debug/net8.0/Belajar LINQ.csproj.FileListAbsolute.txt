@@ -1,0 +1,14 @@
+D:\.NET\DAY1\day1\Belajar LINQ\bin\Debug\net8.0\Belajar LINQ.exe
+D:\.NET\DAY1\day1\Belajar LINQ\bin\Debug\net8.0\Belajar LINQ.deps.json
+D:\.NET\DAY1\day1\Belajar LINQ\bin\Debug\net8.0\Belajar LINQ.runtimeconfig.json
+D:\.NET\DAY1\day1\Belajar LINQ\bin\Debug\net8.0\Belajar LINQ.dll
+D:\.NET\DAY1\day1\Belajar LINQ\bin\Debug\net8.0\Belajar LINQ.pdb
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.AssemblyInfoInputs.cache
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.AssemblyInfo.cs
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.csproj.CoreCompileInputs.cache
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.dll
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\refint\Belajar LINQ.dll
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.pdb
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\Belajar LINQ.genruntimeconfig.cache
+D:\.NET\DAY1\day1\Belajar LINQ\obj\Debug\net8.0\ref\Belajar LINQ.dll

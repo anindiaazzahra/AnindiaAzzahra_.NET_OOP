@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\DAY1\\day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|d:\\.net\\day1\\day1\\emoney separate class\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|solutionrelative:emoney separate class\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|d:\\.net\\day1\\day1\\emoney separate class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|solutionrelative:emoney separate class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|d:\\.net\\day1\\day1\\emoney separate class\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|solutionrelative:emoney separate class\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|d:\\.net\\day1\\day1\\emoney separate class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3224-9B8B-4B3C-A72D-331543ABE41B}|emoney separate class\\emoney separate class.csproj|solutionrelative:emoney separate class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF957C79-D495-4B62-9A8B-2C536317463F}|emoney\\emoney.csproj|d:\\.net\\day1\\day1\\emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF957C79-D495-4B62-9A8B-2C536317463F}|emoney\\emoney.csproj|solutionrelative:emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AC53A-643E-4753-BF7C-B6D034121A19}|Task1\\Task1.csproj|d:\\.net\\day1\\day1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AC53A-643E-4753-BF7C-B6D034121A19}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF957C79-D495-4B62-9A8B-2C536317463F}|emoney\\emoney.csproj|d:\\.net\\day1\\day1\\emoney\\emoney.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF957C79-D495-4B62-9A8B-2C536317463F}|emoney\\emoney.csproj|solutionrelative:emoney\\emoney.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A52D93-D408-409D-819A-227191E83FD4}|Encapsulation\\Encapsulation.csproj|d:\\.net\\day1\\day1\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A52D93-D408-409D-819A-227191E83FD4}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC10925-126A-4E5F-B413-6CB8824EB8AC}|Inheritance\\Inheritance.csproj|d:\\.net\\day1\\day1\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC10925-126A-4E5F-B413-6CB8824EB8AC}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D82A3-B3AF-4E69-81AB-BD161C6A4E22}|Object \u0026 Class\\Object \u0026 Class.csproj|d:\\.net\\day1\\day1\\object \u0026 class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D82A3-B3AF-4E69-81AB-BD161C6A4E22}|Object \u0026 Class\\Object \u0026 Class.csproj|solutionrelative:object \u0026 class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B548CC6-3B0B-49CB-A29F-BBBEE103E27C}|Class \u0026 Object 2\\Class \u0026 Object 2.csproj|d:\\.net\\day1\\day1\\class \u0026 object 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B548CC6-3B0B-49CB-A29F-BBBEE103E27C}|Class \u0026 Object 2\\Class \u0026 Object 2.csproj|solutionrelative:class \u0026 object 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD7163B-D797-4817-AC57-C09D208736D6}|Belajar OOP\\Belajar OOP.csproj|d:\\.net\\day1\\day1\\belajar oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD7163B-D797-4817-AC57-C09D208736D6}|Belajar OOP\\Belajar OOP.csproj|solutionrelative:belajar oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FE9084-1477-47D9-96D1-F8530384C6A8}|Belajar LINQ\\Belajar LINQ.csproj|d:\\.net\\day1\\day1\\belajar linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FE9084-1477-47D9-96D1-F8530384C6A8}|Belajar LINQ\\Belajar LINQ.csproj|solutionrelative:belajar linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5E570-22E0-4495-8340-E2A656996329}|ConsoleApp2\\ConsoleApp2.csproj|d:\\.net\\day1\\day1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F5E570-22E0-4495-8340-E2A656996329}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFFCE2-DB94-4E92-A124-C6775C6BD0CD}|ConsoleApp\\ConsoleApp.csproj|d:\\.net\\day1\\day1\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFFCE2-DB94-4E92-A124-C6775C6BD0CD}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFFCE2-DB94-4E92-A124-C6775C6BD0CD}|ConsoleApp\\ConsoleApp.csproj|d:\\.net\\day1\\day1\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CECFFCE2-DB94-4E92-A124-C6775C6BD0CD}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5E570-22E0-4495-8340-E2A656996329}|ConsoleApp2\\ConsoleApp2.csproj|d:\\.net\\day1\\day1\\consoleapp2\\mstproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F5E570-22E0-4495-8340-E2A656996329}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\mstproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Admin.cs",
+              "RelativeDocumentMoniker": "emoney separate class\\Admin.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Admin.cs",
+              "RelativeToolTip": "emoney separate class\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:46:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Customer.cs",
+              "RelativeDocumentMoniker": "emoney separate class\\Customer.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Customer.cs",
+              "RelativeToolTip": "emoney separate class\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:46:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney separate class\\User.cs",
+              "RelativeDocumentMoniker": "emoney separate class\\User.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney separate class\\User.cs",
+              "RelativeToolTip": "emoney separate class\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:45:21.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Program.cs",
+              "RelativeDocumentMoniker": "emoney separate class\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney separate class\\Program.cs",
+              "RelativeToolTip": "emoney separate class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:43:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "emoney",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney\\emoney.csproj",
+              "RelativeDocumentMoniker": "emoney\\emoney.csproj",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney\\emoney.csproj",
+              "RelativeToolTip": "emoney\\emoney.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:52:02.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\emoney\\Program.cs",
+              "RelativeDocumentMoniker": "emoney\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\emoney\\Program.cs",
+              "RelativeToolTip": "emoney\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:26:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:57:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:44:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Class \u0026 Object 2\\Program.cs",
+              "RelativeDocumentMoniker": "Class \u0026 Object 2\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Class \u0026 Object 2\\Program.cs",
+              "RelativeToolTip": "Class \u0026 Object 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:34:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Object \u0026 Class\\Program.cs",
+              "RelativeDocumentMoniker": "Object \u0026 Class\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Object \u0026 Class\\Program.cs",
+              "RelativeToolTip": "Object \u0026 Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:25:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Belajar OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Belajar OOP\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Belajar OOP\\Program.cs",
+              "RelativeToolTip": "Belajar OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:21:32.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:44:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\Belajar LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Belajar LINQ\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\Belajar LINQ\\Program.cs",
+              "RelativeToolTip": "Belajar LINQ\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:29:25.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MstProduct.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\ConsoleApp2\\MstProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\MstProduct.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\ConsoleApp2\\MstProduct.cs",
+              "RelativeToolTip": "ConsoleApp2\\MstProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:46:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsoleApp.csproj",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T03:44:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:44:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DAY1\\day1\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\.NET\\DAY1\\day1\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:37:06.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
